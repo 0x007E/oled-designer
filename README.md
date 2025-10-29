@@ -2,6 +2,8 @@
 
 # OLED Graphics Designer (`OLGD`)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/oled-designer)
+
 [https://0x007e.github.io/oled/designer/](https://0x007e.github.io/oled-designer)
 
 ---
